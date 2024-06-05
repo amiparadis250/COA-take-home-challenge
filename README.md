@@ -1,4 +1,4 @@
-#Professional Training Program
+# Professional Training Program
 # COA TAKE-HOME CHALLENGE
 
 ## Table of Contents
