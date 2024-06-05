@@ -8,7 +8,7 @@
 3. [Usage](#usage)
 4. [Coding Challenges](#JavaScript-challenges)
    - [Challenge 1: Subarray with targeting sum](#challenge-1-subarray-with-target-sum)
-   - [Challenge 2: String Transformation to ASCII code.](#challenge-2-string-transformation)
+   - [Challenge 2: String Transformation to  basing on given criteria.](#challenge-2-string-transformation)
 
 ## Project Description
 
