@@ -20,3 +20,9 @@ const transformString = (str) => {
     }
   };
   
+  //testing Suites cases 
+  console.log(transformString("transform"));
+console.log(transformString("transform1"));
+console.log(transformString("transform2"));
+console.log(transformString("AmiParadis"));
+
